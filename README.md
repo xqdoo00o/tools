@@ -2,3 +2,4 @@
 ## xray
 ## besttrace
 ## fping
+## speedtest
