@@ -1,5 +1,5 @@
 # Personal tools
-## xray 1.8.4
+## xray 1.8.10
 https://github.com/XTLS/Xray-core
 ## besttrace 1.3.2
 https://www.ipip.net/product/client.html
